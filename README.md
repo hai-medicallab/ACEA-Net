@@ -7,7 +7,7 @@
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figs/ACEA-Net.png" style="max-width:60%;">
+  <img src="/acea-net/figs/ACEA-Net.png" style="max-width:60%;">
 </div>
 
 ## Requirements
